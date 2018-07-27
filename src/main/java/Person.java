@@ -4,5 +4,6 @@ public class Person {
         System.out.println("cvcc");
         System.out.println();
         System.out.println("bbbbbbbb");
+        Integer.valueOf(111);
     }
 }
